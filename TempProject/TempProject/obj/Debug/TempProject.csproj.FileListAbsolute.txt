@@ -1,0 +1,9 @@
+C:\Evan\temp\Sandbox\TempProject\TempProject\bin\Debug\TempProject.exe.config
+C:\Evan\temp\Sandbox\TempProject\TempProject\bin\Debug\TempProject.exe
+C:\Evan\temp\Sandbox\TempProject\TempProject\bin\Debug\TempProject.pdb
+C:\Evan\temp\Sandbox\TempProject\TempProject\obj\Debug\TempProject.csprojResolveAssemblyReference.cache
+C:\Evan\temp\Sandbox\TempProject\TempProject\obj\Debug\TempProject.Form1.resources
+C:\Evan\temp\Sandbox\TempProject\TempProject\obj\Debug\TempProject.Properties.Resources.resources
+C:\Evan\temp\Sandbox\TempProject\TempProject\obj\Debug\TempProject.csproj.GenerateResource.Cache
+C:\Evan\temp\Sandbox\TempProject\TempProject\obj\Debug\TempProject.exe
+C:\Evan\temp\Sandbox\TempProject\TempProject\obj\Debug\TempProject.pdb
